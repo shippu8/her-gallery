@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/her-gallery/static/css/main.1bb7ada6.chunk.css",
+    "main.js": "/her-gallery/static/js/main.b90a09a1.chunk.js",
+    "main.js.map": "/her-gallery/static/js/main.b90a09a1.chunk.js.map",
+    "runtime-main.js": "/her-gallery/static/js/runtime-main.76c526f1.js",
+    "runtime-main.js.map": "/her-gallery/static/js/runtime-main.76c526f1.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/her-gallery/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.964bd2f6.chunk.js": "/her-gallery/static/js/2.964bd2f6.chunk.js",
+    "static/js/2.964bd2f6.chunk.js.map": "/her-gallery/static/js/2.964bd2f6.chunk.js.map",
+    "index.html": "/her-gallery/index.html",
+    "precache-manifest.51dde4952b97d324433ab7ecd172b6ee.js": "/her-gallery/precache-manifest.51dde4952b97d324433ab7ecd172b6ee.js",
+    "service-worker.js": "/her-gallery/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/her-gallery/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.1bb7ada6.chunk.css.map": "/her-gallery/static/css/main.1bb7ada6.chunk.css.map",
+    "static/js/2.964bd2f6.chunk.js.LICENSE.txt": "/her-gallery/static/js/2.964bd2f6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/her-gallery/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76c526f1.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.964bd2f6.chunk.js",
+    "static/css/main.1bb7ada6.chunk.css",
+    "static/js/main.b90a09a1.chunk.js"
+  ]
+}
